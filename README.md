@@ -1,5 +1,5 @@
 Qui trovate le differenze tra i testi dell'attuale Costituzione e di quella che sarà sottoposta a referendum confermativo.
-https://github.com/frodaviz/costituzione/commit/957cce98e74d7044baff41ecc84825b7169c8469
+https://github.com/frodaviz/costituzione/commit/957cce98e74d7044baff41ecc84825b7169c8469?diff=split
 In rosso la versione attuale, in verde la nuova. I segni - e + a inizio riga indicano cancellazioni ed aggiunte.
 
 I testi delle due versioni sono stati ricostruiti a partire da http://www.governo.it/costituzione-italiana/principi-fondamentali/2839 e http://www.gazzettaufficiale.it/eli/id/2016/04/15/16A03075/sg
